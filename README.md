@@ -2,7 +2,7 @@
 
 The main objective is to build and experiment with regression pipelines in Azure Machine Learning Studio.
 The task is to create a predictive model in Azure ML Studio to predict the price of a house based on its features using different regression techniques. The supervised dataset contains seven variables:
-•	House Sale Identifier – Categorical  /n
+•	House Sale Identifier – Categorical  <br />
 •	House Age - Numeric
 •	SqFt - Numeric
 •	Num Bathroom - Numeric
